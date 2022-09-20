@@ -63,7 +63,7 @@
      "CodecSettings": {
        "Codec": "AAC",
        "AacSettings": {
-         "CodecProfile": "HEV1",
+         "CodecProfile": "LC",
          "Specification": "MPEG4",
          "RateControlMode": "CBR",
          "AudioDescriptionBroadcasterMix": "NORMAL",
