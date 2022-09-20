@@ -105,7 +105,7 @@
                                         "Bitrate": 64000,
                                         "RateControlMode": "CBR",
                                         "CodecProfile": "HEV1",
-                                        "CodingMode": "CODING_MODE_2_0",
+                                        "CodingMode": "CODING_MODE_1_0",
                                         "RawFormat": "NONE",
                                         "SampleRate": 48000,
                                         "Specification": "MPEG4"
@@ -214,7 +214,7 @@
                                         "Bitrate": 64000,
                                         "RateControlMode": "CBR",
                                         "CodecProfile": "HEV1",
-                                        "CodingMode": "CODING_MODE_2_0",
+                                        "CodingMode": "CODING_MODE_1_0",
                                         "RawFormat": "NONE",
                                         "SampleRate": 48000,
                                         "Specification": "MPEG4"
@@ -323,7 +323,7 @@
                                         "Bitrate": 96000,
                                         "RateControlMode": "CBR",
                                         "CodecProfile": "HEV1",
-                                        "CodingMode": "CODING_MODE_2_0",
+                                        "CodingMode": "CODING_MODE_1_0",
                                         "RawFormat": "NONE",
                                         "SampleRate": 48000,
                                         "Specification": "MPEG4"
@@ -432,7 +432,7 @@
                                         "Bitrate": 96000,
                                         "RateControlMode": "CBR",
                                         "CodecProfile": "HEV1",
-                                        "CodingMode": "CODING_MODE_2_0",
+                                        "CodingMode": "CODING_MODE_1_0",
                                         "RawFormat": "NONE",
                                         "SampleRate": 48000,
                                         "Specification": "MPEG4"
